@@ -1,35 +1,8 @@
 [
+  {},
   {
-    "id": 1,
-    "timestamp": "2026-04-30T20:02:53.785661",
-    "type": "CYBERBULLYING",
-    "category": "CYBERBULLYING",
-    "severity": "LOW",
-    "confidence": 0.25,
-    "source": "text",
-    "content_preview": "you are stupid",
-    "toxic_words": [
-      "stupid"
-    ]
-  },
-  {
-    "id": 2,
-    "timestamp": "2026-04-30T20:03:30.663113",
-    "type": "CYBERBULLYING",
-    "category": "CYBERBULLYING",
-    "severity": "LOW",
-    "confidence": 0.25,
-    "source": "text",
-    "content_preview": "you are stupid guy don't be mad at me\n",
-    "toxic_words": [
-      "stupid"
-    ]
-  },
-  {
-    "id": 3,
-    "timestamp": "2026-04-30T20:07:17.248607",
+    "timestamp": "2026-06-24T01:10:59.147715",
     "type": "PHISHING",
-    "category": "URL",
     "severity": "HIGH",
     "confidence": 0.3,
     "source": "url",
@@ -39,10 +12,8 @@
     ]
   },
   {
-    "id": 4,
-    "timestamp": "2026-04-30T20:07:25.046482",
+    "timestamp": "2026-06-24T01:11:04.912549",
     "type": "PHISHING",
-    "category": "URL",
     "severity": "HIGH",
     "confidence": 0.3,
     "source": "url",
